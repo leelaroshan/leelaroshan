@@ -1,4 +1,4 @@
-### <div align="center">I'm Leela, a full-time full-stack web developer 👩‍💻</div>  
+### <div align="center">I'm Leela, a Full-Stack Web  and App Developer 👩‍💻</div>  
   
 
 -  I’m currently building websites on React  
